@@ -29,11 +29,12 @@ header * {
 
 @media (orientation: portrait) {
   header{
-    height: 20vh;
+    height: 15vh;
   }
   header * {
     /*flex-direction: column;*/
-    height: 20vh;
+    height: 15vh;
+    font-size: large;
   }
 }
 
