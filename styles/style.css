@@ -103,6 +103,12 @@ section h4 {
   height: fit-content;
 }
 
+@media (orientation: portrait){
+  #experiences {
+    height: 100vh;
+  }
+}
+
 #contact {
     background-image: linear-gradient(rgba(255,255,255,0.5),rgba(255,255,255,0.5)), url('../images/contact.jpg');
 }
