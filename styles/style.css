@@ -12,13 +12,13 @@ body {
 
 header{
   display: flex;
-  align-items: center;
+  /*align-items: center;*/
   position: fixed;
   top: 0;
   left: 0;
   right: 0;
   height: 8vh;
-  line-height: 50px;
+  line-height: 8vh;
   background-color: #eee;
   box-shadow: 0 0 25px 0 black;
 }
@@ -30,11 +30,12 @@ header * {
 
 @media (orientation: portrait) {
   header{
-    height: 15vh;
+    height: 12vh;
+    line-height: 12vh;
   }
   header * {
     /*flex-direction: column;*/
-    height: 15vh;
+    height: 12vh;
     font-size: large;
   }
 }
