@@ -65,11 +65,13 @@ footer {
 
 section h2 {
   font-size: 2.5em;
+  color: #28539e;
 }
 
 section h3 {
   font-size: 1.5em;
   text-align:left;
+  color: cornflowerblue;
 }
 
 header a{
@@ -78,9 +80,7 @@ header a{
 }
 
 #hero {
-  /*background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://codetheweb.blog/assets/img/posts/steps-to-creating-a-website/field.jpg');*/
   background-image: linear-gradient(rgba(255,255,255,0.2),rgba(255,255,255,0.2)), url('../images/hero_background.jpg');
-
 }
 
 #experiences {
@@ -89,7 +89,7 @@ header a{
 }
 
 #contact {
-    background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://codetheweb.blog/assets/img/posts/steps-to-creating-a-website/canyon.jpg');
+    background-image: linear-gradient(rgba(255,255,255,0.5),rgba(255,255,255,0.5)), url('../images/contact.jpg');
 }
 
 .experience {
@@ -179,7 +179,8 @@ ul.contact-list{
 .contact-el{
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: flex-end;
+    margin-right: 30%;
 }
 
 .contact-text{
@@ -199,9 +200,9 @@ ul.contact-list{
 }*/
 
 /* Add a hover effect if you want */
-/*.fa:hover {
+.fa:hover {
   opacity: 0.7;
-}*/
+}
 
 /* Set a specific color for each brand */
 
