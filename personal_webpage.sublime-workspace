@@ -1,0 +1,932 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margin",
+				"margin-right\tabc"
+			],
+			[
+				"con",
+				"contact-el\t(style.css)"
+			],
+			[
+				"linkedin",
+				"linkedin-link\t(style.css)"
+			],
+			[
+				"abil",
+				"ability-title\tabc"
+			],
+			[
+				"star",
+				"star-icon\t(style.css)"
+			],
+			[
+				"no",
+				"no-bullets\t(style.css)"
+			],
+			[
+				"text",
+				"text-align\tabc"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"lin",
+				"line-height\tproperty"
+			],
+			[
+				"se",
+				"section-inner\tabc"
+			],
+			[
+				"wai",
+				"waitingPlayers\tabc"
+			],
+			[
+				"sock",
+				"sock\tabc"
+			],
+			[
+				"consol",
+				"console.log(`${name\tabc"
+			],
+			[
+				"sel",
+				"selected_roles\tabc"
+			],
+			[
+				"sele",
+				"selected_characters\tabc"
+			],
+			[
+				"playerM",
+				"playerNum\tabc"
+			],
+			[
+				"pla",
+				"players\t(page_setup.js)"
+			],
+			[
+				"div",
+				"divs\t(page_setup.js)"
+			],
+			[
+				"serve",
+				"server.js\tabc"
+			],
+			[
+				"clien",
+				"clientPath\tabc"
+			],
+			[
+				"get",
+				"getElementById\tabc"
+			],
+			[
+				"so",
+				"sockB"
+			],
+			[
+				"waitin",
+				"waitingPlayer"
+			],
+			[
+				"on",
+				"onMessage"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"player",
+				"player_names"
+			],
+			[
+				"bleu",
+				"blue_card_right"
+			],
+			[
+				"blue",
+				"blue-card-left"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"car",
+				"card_deck"
+			],
+			[
+				"selec",
+				"selected_characters"
+			],
+			[
+				"playe",
+				"player"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"alig",
+				"align-content\tproperty"
+			],
+			[
+				"pl",
+				"player_name"
+			],
+			[
+				"play",
+				"player_div"
+			],
+			[
+				"life",
+				"lifepoint_div"
+			],
+			[
+				"bull",
+				"bullet"
+			],
+			[
+				"cre",
+				"createElement"
+			],
+			[
+				"PLAYER",
+				"player"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"rotat",
+				"rotateY()\ttransform"
+			],
+			[
+				"bul",
+				"bullet"
+			],
+			[
+				"transo",
+				"transform\tproperty"
+			],
+			[
+				"fle",
+				"flex-wrap\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"inde",
+				"index1"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"align",
+				"text-align\tproperty"
+			],
+			[
+				"csv",
+				"csv_filename"
+			],
+			[
+				"traject",
+				"trajectory_indx"
+			],
+			[
+				"prin",
+				"printVector"
+			],
+			[
+				"tra",
+				"trajectory_matrix"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"Mar",
+				"Markers"
+			],
+			[
+				"vecto",
+				"vector\tstandard header"
+			],
+			[
+				"time",
+				"time003_file"
+			],
+			[
+				"time00",
+				"time_003_matrix"
+			],
+			[
+				"launh",
+				"launch_simulation"
+			],
+			[
+				"ini",
+				"initial_stopped_time"
+			],
+			[
+				"current",
+				"current_stop_time"
+			],
+			[
+				"stop",
+				"stopped_simulation"
+			],
+			[
+				"sim",
+				"simulation_time"
+			],
+			[
+				"el",
+				"elif"
+			],
+			[
+				"pre",
+				"previous_steps_y"
+			],
+			[
+				"e",
+				"elif"
+			],
+			[
+				"result",
+				"result_file"
+			],
+			[
+				"file",
+				"file_matrix"
+			],
+			[
+				"ex",
+				"ex_type"
+			],
+			[
+				"traj",
+				"traj-1"
+			],
+			[
+				"spar",
+				"sparc_matrix"
+			],
+			[
+				"tot",
+				"tot_matrix"
+			],
+			[
+				"pred_",
+				"pred_indx"
+			],
+			[
+				"fil",
+				"filtered"
+			],
+			[
+				"curre",
+				"current_q"
+			],
+			[
+				"robot",
+				"robot_t"
+			],
+			[
+				"T_",
+				"T_simple_list"
+			],
+			[
+				"T",
+				"T_simple_list"
+			],
+			[
+				"point",
+				"point1"
+			],
+			[
+				"q",
+				"q"
+			],
+			[
+				"rd",
+				"rd"
+			],
+			[
+				"S",
+				"s"
+			],
+			[
+				"q3",
+				"q_3"
+			],
+			[
+				"prediction",
+				"prediction_t"
+			],
+			[
+				"pred",
+				"predicted_d"
+			],
+			[
+				"J",
+				"J"
+			],
+			[
+				"DH",
+				"DH_parameters"
+			],
+			[
+				"robo",
+				"robot_position"
+			],
+			[
+				"link",
+				"link0"
+			],
+			[
+				"join",
+				"joint1"
+			],
+			[
+				"poin",
+				"point1"
+			],
+			[
+				"BAS",
+				"base"
+			],
+			[
+				"c",
+				"c_2"
+			],
+			[
+				"L",
+				"l_i"
+			],
+			[
+				"fi",
+				"first"
+			],
+			[
+				"poi",
+				"point_indx"
+			],
+			[
+				"ROBOT",
+				"robot_t"
+			],
+			[
+				"roo",
+				"robot_t"
+			],
+			[
+				"rob",
+				"robot_t"
+			],
+			[
+				"n",
+				"n"
+			],
+			[
+				"predi",
+				"predicted_d"
+			],
+			[
+				"preid",
+				"predict"
+			],
+			[
+				"question",
+				"questions"
+			],
+			[
+				"ans",
+				"answer_control"
+			],
+			[
+				"filen",
+				"file_name"
+			],
+			[
+				"ind",
+				"indx"
+			],
+			[
+				"line",
+				"line_control"
+			],
+			[
+				"user_p",
+				"user_p"
+			],
+			[
+				"wr",
+				"wrong_inside"
+			],
+			[
+				"first",
+				"first_time"
+			],
+			[
+				"goal",
+				"goal_reached"
+			],
+			[
+				"wrong",
+				"wrong_outside"
+			],
+			[
+				"ues",
+				"user_p"
+			],
+			[
+				"execu",
+				"execution_time"
+			],
+			[
+				"exe",
+				"execution_time"
+			],
+			[
+				"hum",
+				"human_dist_now"
+			],
+			[
+				"cond",
+				"cond_previous"
+			],
+			[
+				"alp",
+				"alpha_user_now"
+			],
+			[
+				"wra",
+				"wrapToPi"
+			],
+			[
+				"al",
+				"alpha_user_previous"
+			],
+			[
+				"alpha",
+				"alpha_user_now"
+			],
+			[
+				"user",
+				"user_t"
+			],
+			[
+				"wron",
+				"wrong_inside"
+			],
+			[
+				"cu",
+				"current_angle"
+			],
+			[
+				"angl",
+				"angles"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 6015,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "styles/style.css",
+			"settings":
+			{
+				"buffer_size": 3445,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git ad",
+				"Git: Add All"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"View: Toggle Minimap"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 137.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/matteo/Documents/web_projects/my_webpage",
+		"/Users/matteo/Documents/web_projects/my_webpage/styles"
+	],
+	"file_history":
+	[
+		"/Users/matteo/Documents/web_projects/my_webpage/styles/style.css",
+		"/Users/matteo/Documents/web_projects/bang/client/index.html",
+		"/Users/matteo/Documents/web_projects/bang/server/old_server.js",
+		"/Users/matteo/.zsh_history",
+		"/Users/matteo/Documents/web_projects/bang/server.js",
+		"/Users/matteo/Documents/web_projects/bang/server/server.js",
+		"/Users/matteo/Documents/web_projects/bang/bang.sublime-project",
+		"/Users/matteo/Documents/web_projects/bang/styles/style.css",
+		"/Users/matteo/Documents/web_projects/bang/scripts/game_handle.js",
+		"/Users/matteo/Documents/web_projects/bang/index.html",
+		"/Users/matteo/Documents/web_projects/bang/scripts/page_setup.js",
+		"/Users/matteo/Documents/web_projects/bang/scripts/event_handler.js",
+		"/Users/matteo/Documents/web_projects/bang/scripts/main.js",
+		"/Users/matteo/Desktop/Master/Tesi/DTW/dtw_example.py",
+		"/Users/matteo/Downloads/game_solitaire/dhtmlgoodies_solitaire.js",
+		"/Users/matteo/Downloads/game_solitaire/game_solitaire.html",
+		"/Users/matteo/Downloads/game_solitaire/dhtmlgoodies_solitaire.css",
+		"/Users/matteo/Documents/bang_site/bang/styles/style.css",
+		"/Users/matteo/Documents/bang_site/bang/scripts/main.js",
+		"/Users/matteo/Documents/bang_site/bang/index.html",
+		"/Users/matteo/Downloads/ulignano/css/style.css",
+		"/Users/matteo/Downloads/ulignano/ulignano.php",
+		"/Users/matteo/.zshrc",
+		"/Users/matteo/Downloads/scripts/move_group_python_interface.py",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/convert_test.py",
+		"/Users/matteo/Documents/MATLAB/tesi/questionnaire.py",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/random_sequence_generation.py",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/new_results/convert_test.py",
+		"/Users/matteo/Desktop/Master/Tesi/tracking_ws/aruco_code/aruco_pose_detection.cpp",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/mouse_tracking_callback.py",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/convert_csv.py",
+		"/Users/matteo/Desktop/Master/Tesi/tracking_ws/aruco_code/read_dataframe.py",
+		"/Users/matteo/Desktop/Master/Tesi/tracking_ws/aruco_code/3D_nn.py",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/launch_simulation.py",
+		"/Users/matteo/Desktop/Master/Tesi/tracking_ws/aruco_code/trajectory_generator.py",
+		"/Users/matteo/Desktop/Master/Tesi/tracking_ws/aruco_code/load_model.py",
+		"/Users/matteo/Desktop/Master/Tesi/tracking_ws/first_build/launch_detection.py",
+		"/Users/matteo/Desktop/Master/Tesi/tracking_ws/aruco_code/adjust_dataframe.py",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/single_simulation.py",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/load_model.py",
+		"/Users/matteo/Desktop/Master/Tesi/tracking_ws/first_build/aruco_pose_detection",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/main.py",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/mouse_nn.py",
+		"/Users/matteo/Desktop/Master/Tesi/tracking_ws/aruco_code/CMakeLists.txt",
+		"/Users/matteo/aruco_ws/aruco-3.1.11/build/utils/arucoConfig.yml",
+		"/Users/matteo/aruco_ws/aruco-3.1.11/utils/aruco_test.cpp",
+		"/Users/matteo/Desktop/Master/Tesi/tracking_ws/aruco_code/csv_test.cpp",
+		"/Users/matteo/Desktop/Master/Tesi/tracking_ws/aruco_code/aruco_video.cpp",
+		"/Users/matteo/Desktop/Master/Tesi/tracking_ws/aruco_code/aruco_simple_test.cpp",
+		"/Users/matteo/Desktop/Master/Tesi/tracking_ws/aruco_code/example.cpp",
+		"/Users/matteo/.bash_profile",
+		"/usr/local/bin/setup_vars_opencv4.sh",
+		"/private/etc/zshrc",
+		"/Users/matteo/aruco_ws/tracking_ws/CMakeLists.txt",
+		"/Users/matteo/aruco_ws/tracking_ws/example.cpp",
+		"/Users/matteo/.zprofile",
+		"/Users/matteo/.bash_history",
+		"/Users/matteo/aruco_ws/aruco-3.1.11/CMakeLists.txt",
+		"/Users/matteo/aruco_ws/first_build/Makefile",
+		"/Users/matteo/aruco_ws/example.cpp",
+		"/Users/matteo/Downloads/getaruco.cpp",
+		"/Users/matteo/Downloads/scripts/trapezoidal_class_3D.py",
+		"/Users/matteo/Downloads/scripts/Sinusoidal_class.py",
+		"/Users/matteo/Downloads/scripts/3D_my_robot_move.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/planar_arm_experiments/Python2_code/2D_human_arm/questionnaire.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/planar_arm_experiments/Linux_compatible_version_new/Python3_code/2D_human_arm/launch_simulation.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/planar_arm_experiments/Linux_compatible_version_new/Python3_code/2D_human_arm/main.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/planar_arm_experiments/Python3_code/2D_human_arm/launch_simulation.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/planar_arm_experiments/README.md",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/planar_arm_experiments/Linux_compatible_version/Python3_code/2D_human_arm/main.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/planar_arm_experiments/Python3_code/2D_human_arm/cursor.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/planar_arm_experiments/Python3_code/2D_human_arm/main.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/planar_arm_experiments/Python2_code/2D_human_arm/main.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/python2_planar_arm_experiments/2D_unusual_arm/single_simulation.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/python2_planar_arm_experiments/2D_unusual_arm/main.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/python2_planar_arm_experiments/2D_unusual_arm/print_planar_unusual_arm.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/python2_planar_arm_experiments/2D_unusual_arm/cursor.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/python2_planar_arm_experiments/2D_unusual_arm/launch_simulation.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/python2_planar_arm_experiments/2D_unusual_arm/line_control.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/python2_planar_arm_experiments/2D_unusual_arm/trajectory_generator.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/python2_planar_arm_experiments/2D_human_arm/cursor.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/python2_planar_arm_experiments/2D_human_arm/single_simulation.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/python2_planar_arm_experiments/2D_human_arm/main.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/python2_planar_arm_experiments/2D_human_arm/launch_simulation.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/python2_planar_arm_experiments/2D_human_arm/line_control.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/python2_planar_arm_experiments/2D_human_arm/trajectory_generator.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/python2_planar_arm_experiments/2D_human_arm/trapezoidal_velocity.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/planar_arm_experiments/2D_human_arm/cursor.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/planar_arm_experiments/2D_human_arm/launch_simulation.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/planar_arm_experiments/2D_unusual_arm/cursor.py",
+		"/Users/matteo/Desktop/Master/Tesi/stop_and_play/launch_simulation.py",
+		"/Users/matteo/Desktop/Master/Tesi/stop_and_play/cursor.py",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/2D_unusual_arm/launch_simulation.py",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/2D_unusual_arm/cursor.py",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/tab_main.py",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/2D_human_arm/launch_simulation.py",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/2D_human_arm/series_simulation.py",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/2D_human_arm/cursor.py",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/2D_human_arm/main.py",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/trajectory_generator.py",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/2D_unusual_arm/main.py",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/questionnaire.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/test_template_python2/main.py",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/2D_unusual_arm/print_planar_unusual_arm.py",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/zz_launch.py",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/2D_unusual_arm/robot_cursor.py",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/2D_human_arm/robot_cursor.py",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/2D_human_arm/human_cursor.py",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/cursor.py",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/robot_like_mouse.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/only_2tests/main.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/only_2tests/launch_simulation.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/only_2tests/cursor.py",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/convert_timematrix.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/only_2tests/convert_timematrix.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/test_template_python2/robot_like_mouse.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/test_template_python2/zz_launch.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/test_template_python2/robot_cursor.py",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/human_cursor.py",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/human_like_mouse.py",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/robot_cursor.py",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/sort_figures.py",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/read_dataframe.py",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/read_data.py",
+		"/Users/matteo/Desktop/Master/Tesi/mouse_tracking/compute_diff.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/only_2tests/robot_like_mouse.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/only_2tests/robot_cursor.py",
+		"/Users/matteo/Desktop/Master/Tesi/replicable_experiments/test_template_python2/human_like_mouse.py"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6015,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3928,
+								3928
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2172.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "styles/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3445,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3286,
+								3257
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2980.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 49.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 126.0
+	},
+	"pinned_build_system": "",
+	"project": "personal_webpage.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Desktop/Master/Tesi/mouse_tracking/main.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 188.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 5
+	}
+}
