@@ -78,7 +78,7 @@ header a{
 
 #hero {
   /*background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://codetheweb.blog/assets/img/posts/steps-to-creating-a-website/field.jpg');*/
-  background-image: url('https://codetheweb.blog/assets/img/posts/steps-to-creating-a-website/field.jpg');
+  background-image: linear-gradient(rgba(255,255,255,0.2),rgba(255,255,255,0.2)), url('../images/hero_background.jpg');
 
 }
 
@@ -104,11 +104,13 @@ header a{
 
 
 .col-mst-1{
-  width: 33.333333333%;
+  /*width: 33.333333333%;*/
+  width: 30%;
 }
 
 .col-mst-2{
-  width: 66.666666667%;
+  /*width: 66.666666667%;*/
+  width: 70%;
 }
 
 
