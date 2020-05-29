@@ -27,6 +27,16 @@ header * {
   height: 8vh;
 }
 
+@media (orientation: portrait) {
+  header{
+    height: 20vh;
+  }
+  header * {
+    /*flex-direction: column;*/
+    height: 20vh;
+  }
+}
+
 header ul{
   padding: 0;
 }
