@@ -35,6 +35,11 @@ header li{
   margin-left: 20px;
 }
 
+header a{
+  text-decoration: none;
+  color: black;
+}
+
 section{
   height: 100vh;
   /*border: 1px solid black;*/
@@ -74,9 +79,8 @@ section h3 {
   color: cornflowerblue;
 }
 
-header a{
-  text-decoration: none;
-  color: black;
+section h4 {
+  font-size: 1.2em;
 }
 
 #hero {
@@ -86,6 +90,7 @@ header a{
 #experiences {
   background-color: #F3EFE0;
   /*background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://codetheweb.blog/assets/img/posts/steps-to-creating-a-website/beach.jpg');*/
+  height: fit-content;
 }
 
 #contact {
@@ -126,9 +131,9 @@ header a{
 
 #experiences .experience p > strong {
     display: block;
-    padding-top: 1px;
+    padding-top: 7px;
     margin-bottom: 10px;
-    font-size: 1.2em;
+    font-size: 1.3em;
 }
 
 
