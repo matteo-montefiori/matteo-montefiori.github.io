@@ -29,6 +29,9 @@ header * {
 }
 
 @media (orientation: portrait) {
+  html {
+    font-size: 20px;
+  }
   header{
     height: 12vh;
     line-height: 12vh;
